@@ -44,6 +44,12 @@ The negative gradient of Loss function is same as residual. It means minimizing 
 
 From <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html>
 
+### Parameters of function, xgboost.XGBClassifier
+
+<https://xgboost.readthedocs.io/en/latest/python/python_api.html#xgboost.XGBClassifier>
+
+
+
 ### Further explanations
 If learning rate is small, target doesn't change much. As a result, consequent trees have similar structure.
 
