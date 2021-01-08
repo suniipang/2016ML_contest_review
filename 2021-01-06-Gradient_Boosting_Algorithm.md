@@ -63,3 +63,12 @@ from other demo you can find why large learning rate is a bad idea and small lea
 From <http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html>
 
 Plus, in this site, we can simulate the GBM intuitively changing serveral parameters.
+
+
+### Difference among Gradient Boost, AdaBoost and XGBoost 
+<https://bkshin.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-15-Gradient-Boost>
+<https://hyunlee103.tistory.com/25>
+<https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting>
+
+### Bias and Variances
+<https://bkshin.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-12-%ED%8E%B8%ED%96%A5Bias%EC%99%80-%EB%B6%84%EC%82%B0Variance-Trade-off?category=1057680>

@@ -1,7 +1,7 @@
 ## Ensemble Method
 
 1. Bagging
-This algorithm generates multiple bootstrap training sets from the original training set and uses each of them to generate a classifier for inclusion in the ensemble. In general, bagging does more to **reduce the varianc**e in the base models **than the bias**, so bagging performs best relative to its base models when the base models have high variance and low bias. 
+This algorithm generates multiple bootstrap training sets from the original training set and uses each of them to generate a classifier for inclusion in the ensemble. In general, bagging does more to **reduce the variance** in the base models **than the bias**, so bagging performs best relative to its base models when the base models have high variance and low bias. 
 
 2. Boosting
 This algorithm involves **incrementally** building an ensemble by training each new model instance to **emphasize the training instances that previous models mis-classified**. Boosting does more to **reduce bias than variance**. For this reason, boosting tends to improve upon its base models most when they have high bias and low variance.
