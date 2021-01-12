@@ -67,7 +67,7 @@ Plus, in this site, we can simulate the GBM intuitively changing serveral parame
 
 ### Difference among Gradient Boost, AdaBoost and XGBoost 
 <https://bkshin.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-15-Gradient-Boost>
-<https://hyunlee103.tistory.com/25>
+**<https://hyunlee103.tistory.com/25>**
 <https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting>
 
 ### Bias and Variances

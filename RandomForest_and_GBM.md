@@ -3,6 +3,9 @@
 1. Bagging
 This algorithm generates multiple bootstrap training sets from the original training set and uses each of them to generate a classifier for inclusion in the ensemble. In general, bagging does more to **reduce the variance** in the base models **than the bias**, so bagging performs best relative to its base models when the base models have high variance and low bias. 
 
+[Bootstrap](https://learningcarrot.wordpress.com/2015/11/12/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-bootstrapping/)
+[Bootstrap aggregating](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
+
 2. Boosting
 This algorithm involves **incrementally** building an ensemble by training each new model instance to **emphasize the training instances that previous models mis-classified**. Boosting does more to **reduce bias than variance**. For this reason, boosting tends to improve upon its base models most when they have high bias and low variance.
 However, this method of adjusting the training set distribution causes boosting to have difficulty when the training data are noisy. It is because the weights assigned to noisy examples often become much higher than for the other examples, often causing boosting to focus too much on those noisy examples and overfit the data 
